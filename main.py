@@ -2,6 +2,8 @@ from Cinema import *
 
 
 
+
+
 def movi():  # information about movie list
     hesh = []
     for i in set(Cinema_hall.hall_list):
